@@ -1,0 +1,1 @@
+'+id_dev+'&id_dev='+nm_dev+'&nm_dev='+nm_proyek+'&nm_proyek='+alamat_proyek+'&alamat_proyek='+no_telpon+'&no_telpon='+kat_proyek+'&kat_proyek='+tot_luas_lahan+'&tot_luas_lahan='+type_perumahan+'&type_perumahan='+izin_lokasi+'&izin_lokasi='+imb+'&imb='+sert_induk+'&sert_induk='+pbb+'&pbb='+input_on+'&input_on='+input_by+'&input_by,

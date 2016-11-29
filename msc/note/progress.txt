@@ -1,0 +1,9 @@
+27112015-0247
+=============
+database(updte):
+penjualan nambah field
++ kelebihan tanah
+
+kekurangan
+
+kode penjualan

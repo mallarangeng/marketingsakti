@@ -1,0 +1,35 @@
+.kecil	{
+font-size: 10px;
+float: left;
+color: #959595;
+}
+.kecilwarna	{
+font-size: 9px;
+float: left;
+color: #62cb31;
+}
+.sedang	{
+font-size: 12px;
+}
+.tebal {
+font-size: 14px;
+font-weight:bold;
+}
+.hitam {
+color: #000000;
+}
+.biru {
+color: #03a9f4;
+}
+
+              /* modal untuk ukuran ekstra besar */
+                        @media (min-width: 768px) {
+                        .modal-xl {
+                        width: 90%;
+                        max-width:1200px;
+                      }
+                    }
+.rata_kanan	{
+	float:right;
+}
+              

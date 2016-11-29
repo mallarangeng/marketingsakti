@@ -1,0 +1,6 @@
+harga_brosur
+harga_cash
+biaya_proses
+
+===========
+id_status = 
